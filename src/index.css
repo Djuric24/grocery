@@ -1,7 +1,5 @@
 /*
-=============== 
 Variables
-===============
 */
 
 :root {
@@ -46,9 +44,7 @@ Variables
 }
 
 /*
-=============== 
 Global Styles
-===============
 */
 
 *,
@@ -181,9 +177,7 @@ main {
 }
 
 /*
-=============== 
 Grocery List
-===============
 */
 .section-center {
   background: var(--clr-white);
